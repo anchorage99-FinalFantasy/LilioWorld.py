@@ -6,3 +6,6 @@ print (f" First order of business is to learn Python programming language, "
 name = input (" Please enter your name: ")
 print (f" Hello {name}, welcome to the Lilo world of Learning Python! \n")
 
+print (f" The first lesson we are going to do is,"
+       f" working on a weather converting program \n")
+
